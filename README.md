@@ -3,15 +3,15 @@
 
 <div align="left" style="display: inline-block;">
   <a href="https://github.com/Miguelalmeida01">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Miguelalmeida01&show_icons=true&theme=dark"/>
+    <img height="180px" src="https://stats-umber-psi.vercel.app/api?username=Miguelalmeida01&show_icons=true&theme=dark"/>
   </a>
 
   <a href="https://github.com/Miguelalmeida01">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelalmeida01&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180px" src="https://stats-umber-psi.vercel.app/api/top-langs/?username=Miguelalmeida01&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
-    -Skills
+Skills
 <div style="display: inline_block"><br>
    <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
